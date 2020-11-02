@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Grandstander', cursive;
+}
+
+h3{
+    font-size: 5rem;
+    color: white;
+    font-weight: lighter;
+    position: relative;
+    text-shadow:0 0 10px rgba(0,0,0,0.5), 0 10px 25px rgba(0,0,0,0.4);
+}
